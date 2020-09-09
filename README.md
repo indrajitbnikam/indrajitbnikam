@@ -20,11 +20,11 @@
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to create beautiful Github profile README.md](https://fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/)
 - [Automate Angular app deployments using Github Actions](https://fullyunderstood.com/automate-angular-app-deployments-using-github-actions/)
 - [Deploy Angular app using AWS S3](https://fullyunderstood.com/deploy-angular-app-using-aws-s3/)
 - [Host your Angular Application using Github Pages](https://fullyunderstood.com/host-your-angular-application-using-github-pages/)
 - [How to wait for Ionic Alert to respond](https://fullyunderstood.com/web-tech/how-to-wait-for-ionic-alert-to-respond/)
-- [Stack](https://fullyunderstood.com/stack/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://indrajeet.me
