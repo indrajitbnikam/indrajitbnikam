@@ -20,11 +20,11 @@
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Cypress with Angular](https://fullyunderstood.com/introduction-to-cypress-with-angular/)
 - [Deploy Angular app using Vercel](https://fullyunderstood.com/deploy-angular-app-using-vercel/)
 - [How to setup Angular Material in an Angular 10 application](https://fullyunderstood.com/how-to-setup-angular-material-in-angular-10-app/)
 - [Get started with Angular & Tailwind CSS](https://fullyunderstood.com/get-started-with-angular-tailwind-css/)
 - [How to create beautiful Github profile README.md](https://fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/)
-- [Automate Angular app deployments using Github Actions](https://fullyunderstood.com/automate-angular-app-deployments-using-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://indrajeet.me
