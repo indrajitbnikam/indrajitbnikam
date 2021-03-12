@@ -2,11 +2,11 @@
 [![Website](https://img.shields.io/badge/Co--founder/Author%20%40%20fullyunderstood.com-blogs-green?style=flat-square)](https://fullyunderstood.com/author/indrajitbnikam/)
 
 ## In short, Tech Enthusiast with passion for Web Development!
-- 🔭 I’m currently working on - My blogs.
-- 🌱 I’m currently learning - Microservices
+- 🔭 I’m currently working on - My portfolio site.
+- 🌱 I’m currently learning - Gatsby
 - 👯 I’m looking to collaborate with - Other developers in community.
-- 💬 Ask me about - Angular, Anytime 😉
-- 🥅 2020 Goal - Consitently write blogs about things I find interesting.
+- 💬 Ask me about - Angular, React 😉
+- 🥅 2021 Goal - Work with people who pioneers in web development.
 - ⚡ Fun fact - I'm fairly good with Sketching 😎
 
 
