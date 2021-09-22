@@ -1,12 +1,12 @@
 ### Hi, I'm Indrajeet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Co--founder/Author%20%40%20fullyunderstood.com-blogs-green?style=flat-square)](https://fullyunderstood.com/author/indrajitbnikam/)
+[![Website](https://img.shields.io/badge/Author%20%40%20fullyunderstood.com-blogs-green?style=flat-square)](https://fullyunderstood.com/author/indrajitbnikam/)
 
 ## In short, Tech Enthusiast with passion for Web Development!
-- 🔭 I’m currently working on - My portfolio site.
-- 🌱 I’m currently learning - Gatsby
+- 🔭 I’m currently working on - My new portfolio site.
+- 🌱 I’m currently learning - Next.js
 - 👯 I’m looking to collaborate with - Other developers in community.
-- 💬 Ask me about - Angular, React 😉
-- 🥅 2021 Goal - Work with people who pioneers in web development.
+- 💬 Ask me about - React, Angular 😉
+- 🥅 2021 Goal - Work with people who are pioneers in web development.
 - ⚡ Fun fact - I'm fairly good with Sketching 😎
 
 
