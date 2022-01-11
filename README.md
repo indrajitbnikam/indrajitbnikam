@@ -2,8 +2,8 @@
 [![Website](https://img.shields.io/badge/Author%20%40%20fullyunderstood.com-blogs-green?style=flat-square)](https://fullyunderstood.com/author/indrajitbnikam/)
 
 ## In short, Tech Enthusiast with passion for Web Development!
-- 🔭 I’m currently working on - My new portfolio site.
-- 🌱 I’m currently learning - Next.js
+- 🔭 I’m currently working on - Hackathon Project.
+- 🌱 I’m currently learning - Web3
 - 👯 I’m looking to collaborate with - Other developers in community.
 - 💬 Ask me about - React, Angular 😉
 - 🥅 2021 Goal - Work with people who are pioneers in web development.
