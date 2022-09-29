@@ -2,12 +2,11 @@
 [![Website](https://img.shields.io/badge/Author%20%40%20fullyunderstood.com-blogs-green?style=flat-square)](https://fullyunderstood.com/author/indrajitbnikam/)
 
 ## In short, Tech Enthusiast with passion for Web Development!
-- 🔭 I’m currently working on - Hackathon Project.
+- 🔭 I’m currently working on - interesting stuff @ coinbase.
 - 🌱 I’m currently learning - Web3
-- 👯 I’m looking to collaborate with - Other developers in community.
 - 💬 Ask me about - React, Angular 😉
-- 🥅 2021 Goal - Work with people who are pioneers in web development.
-- ⚡ Fun fact - I'm fairly good with Sketching 😎
+- 🥅 2022 Goal - Develop my understanding around Web3.
+- ⚡ Fun fact - I'm fairly good with Sketching ✍️
 
 
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=indrajitbnikam&count_private=true&include_all_commits=true&theme=radical)](https://github.com/indrajitbnikam?tab=repositories)
