@@ -1,15 +1,13 @@
 ### Hi, I'm Indrajeet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Author%20%40%20fullyunderstood.com-blogs-green?style=flat-square)](https://fullyunderstood.com/author/indrajitbnikam/)
 
 ## In short, Tech Enthusiast with passion for Web Development!
-- 🔭 I’m currently working on - interesting stuff @ coinbase.
-- 🌱 I’m currently learning - Web3
-- 💬 Ask me about - React, Angular 😉
-- 🥅 2022 Goal - Develop my understanding around Web3.
+- 🔭 I’m currently working on - interesting stuff @ Tekion.
+- 🌱 I’m currently learning - System Design (Both Frontend and Backend)
+- 💬 Ask me about - React, TypeScript, JavaScript
+- 🥅 2023 Goal - Develop my understanding of massive apps work end to end.
 - ⚡ Fun fact - I'm fairly good with Sketching ✍️
 
-
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=indrajitbnikam&count_private=true&include_all_commits=true&theme=radical)](https://github.com/indrajitbnikam?tab=repositories)
+<!-- [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=indrajitbnikam&count_private=true&include_all_commits=true&theme=radical)](https://github.com/indrajitbnikam?tab=repositories) -->
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
